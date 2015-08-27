@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WidgetTraining</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_custom_widgets">Custom Widgets</string>
+    <string name="title_activity_text_fields">Text Fields</string>
+    <string name="title_activity_custom_text_fields">Custom Text Fields</string>
+</resources>
